@@ -15,6 +15,8 @@ Após abrir a panilhas "Mensais" e salvar as alterações feitas automaticamente
 Após abrir o word "recibo", aceitar a utilização do banco de dados, ir na aba de "correspondencia", clickar em "Concluir e mesclar" e em " Imprimir Documentos"
 
 
+//* Caso o Word não encontre o banco, basta buscar o arquivo "Mensais.xlsm" 
+
 Desta forma todos os recibos são emitidos em minutos, já com todas as datas destacadas e valores totais.
 
 
